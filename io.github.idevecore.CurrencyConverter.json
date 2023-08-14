@@ -9,8 +9,7 @@
     "--share=ipc",
     "--socket=fallback-x11",
     "--device=dri",
-    "--socket=wayland",
-    "--own-name=io.github.idevecore.CurrencyConverter.SearchProvider"
+    "--socket=wayland"
   ],
   "cleanup": [
     "/include",
