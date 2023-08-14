@@ -57,7 +57,6 @@
         {
           "type": "git",
           "url": "https://github.com/idevecore/currency-converter.git",
-          "tag": "v1.2.0",
           "commit": "0f0dec8324c8c713f35a2bcc402671fd3aa0e5fe"
         }
       ]
