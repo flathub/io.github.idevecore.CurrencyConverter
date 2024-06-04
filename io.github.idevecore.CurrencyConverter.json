@@ -1,7 +1,7 @@
 {
   "app-id": "io.github.idevecore.CurrencyConverter",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "44",
+  "runtime-version": "46",
   "sdk": "org.gnome.Sdk",
   "command": "currencyconverter",
   "finish-args": [
@@ -58,6 +58,10 @@
           "type": "git",
           "url": "https://github.com/idevecore/currency-converter.git",
           "commit": "0f0dec8324c8c713f35a2bcc402671fd3aa0e5fe"
+        },
+        {
+          "type": "patch",
+          "path": "fix_appdata.patch"
         }
       ]
     }
